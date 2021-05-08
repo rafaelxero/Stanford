@@ -1,0 +1,38 @@
+VOLUME =  1.9925000e+02  CM^3
+SURFACE AREA =  2.8150000e+02  CM^2
+DENSITY =  4.5100000e+00 GRAM / CM^3
+MASS =  8.9861750e+02 GRAM 
+
+CENTER OF GRAVITY with respect to CS0 coordinate frame:
+X   Y   Z     0.0000000e+00  1.3528858e+00 -4.0050188e+00  CM
+
+INERTIA with respect to CS0 coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.8833017e+04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  2.9648200e+04  3.5989800e+03
+Izx Izy Izz  0.0000000e+00  3.5989800e+03  5.9597771e+03
+
+INERTIA at CENTER OF GRAVITY with respect to CS0 coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.2774295e+04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  1.5234217e+04 -1.2700290e+03
+Izx Izy Izz  0.0000000e+00 -1.2700290e+03  4.3150374e+03
+
+PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3   4.1692642e+03  1.2774295e+04  1.5379990e+04
+
+ROTATION MATRIX from CS0 orientation to PRINCIPAL AXES:
+       0.00000        1.00000        0.00000
+       0.11403        0.00000        0.99348
+       0.99348        0.00000       -0.11403
+
+ROTATION ANGLES from CS0 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -96.548          0.000        -90.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 2.1539830e+00  3.7703445e+00  4.1370483e+00  CM
+
+
+

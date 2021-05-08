@@ -1,0 +1,48 @@
+VOLUME =  9.9595684e+03  CM^3
+SURFACE AREA =  4.8912830e+03  CM^2
+AVERAGE DENSITY =  9.3292898e+00 GRAM / CM^3
+MASS =  9.2915700e+04 GRAM 
+
+CENTER OF GRAVITY with respect to ACS1 coordinate frame:
+X   Y   Z     0.0000000e+00  0.0000000e+00 -5.3319229e-01  CM
+
+INERTIA with respect to ACS1 coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  8.9937787e+06  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  8.9937799e+06  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  5.0363267e+06
+
+INERTIA at CENTER OF GRAVITY with respect to ACS1 coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  8.9673633e+06  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  8.9673645e+06  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  5.0363267e+06
+
+PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3   5.0363267e+06  8.9673620e+06  8.9673659e+06
+
+ROTATION MATRIX from ACS1 orientation to PRINCIPAL AXES:
+       0.00000        1.00000        0.00000
+       0.00000        0.00000        1.00000
+       1.00000        0.00000        0.00000
+
+ROTATION ANGLES from ACS1 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -90.000          0.000        -90.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 7.3622811e+00  9.8239875e+00  9.8239896e+00  CM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the ACS1 coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                     MOTORHOLDER            MATERIAL:                              UNKNOWN
+         7.85000e+00  4.50437e+04  0.00000e+00  0.00000e+00  0.00000e+00
+                           MOTOR            MATERIAL:                              UNKNOWN
+         1.13400e+01  4.78720e+04  0.00000e+00  0.00000e+00 -1.03488e+00
+

@@ -1,0 +1,8 @@
+Acero 7.850 g/cm^3
+(Base, Motorholder, Prismatic, Arm)
+
+Plomo 11.340 g/cm^3
+(Motor, Basewristmotor)
+
+Titanio 4.510 g/cm^3
+(Basewrist, Middlewrist, Gripper, Finger)
